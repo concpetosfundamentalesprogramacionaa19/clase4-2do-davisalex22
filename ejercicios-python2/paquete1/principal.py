@@ -2,7 +2,7 @@
     Para llamar a paquetes de la misma altura
 """
 import sys
-sys.path.append('../')
+sys.path.append('../') # Sirve para acceder a caracteristicas o agregar una ruta
 from paquete2.variables import limite
 from paquete3.metodos import generar_potencia
 
